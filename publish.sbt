@@ -1,4 +1,5 @@
 import Settings._
+import scala.sys.process._
 
 // Uncomment and configure if publishing a library to bintray
 //bintrayOrganization := Some("micronautics")

@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/mslinn/http4s-template.svg?branch=master)](https://travis-ci.org/mslinn/http4s-template)
 [![GitHub version](https://badge.fury.io/gh/mslinn%2Fhttp4s-template.svg)](https://badge.fury.io/gh/mslinn%2Fhttp4s-template)
 
-This is a handy starting point for Scala/Java console apps built with SBT.
+This is a handy starting point for http4s-template apps built with SBT.
 Projects are built with Scala 2.12, which requires Java 8+.
 
 This project is licensed with CC0, which puts this project into the public domain.

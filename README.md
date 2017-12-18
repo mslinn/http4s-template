@@ -1,8 +1,8 @@
-# Scala Project Template
+# http4s Project Template
 
 [![License](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/share-your-work/public-domain/cc0/)
-[![Build Status](https://travis-ci.org/mslinn/sbtTemplate.svg?branch=master)](https://travis-ci.org/mslinn/sbtTemplate)
-[![GitHub version](https://badge.fury.io/gh/mslinn%2FsbtTemplate.svg)](https://badge.fury.io/gh/mslinn%2FsbtTemplate)
+[![Build Status](https://travis-ci.org/mslinn/http4s-template.svg?branch=master)](https://travis-ci.org/mslinn/http4s-template)
+[![GitHub version](https://badge.fury.io/gh/mslinn%2Fhttp4s-template.svg)](https://badge.fury.io/gh/mslinn%2Fhttp4s-template)
 
 This is a handy starting point for Scala/Java console apps built with SBT.
 Projects are built with Scala 2.12, which requires Java 8+.
@@ -13,7 +13,7 @@ unless you want them to be in the public domain as well.
 
 For more information about this project and SBT, see the [SBT Project Setup lecture](https://scalacourses.com/student/showLecture/135) on [ScalaCourses.com](https://www.ScalaCourses.com).
 
-## sbtTemplate Bash command
+## http4sTemplate Bash command
 
 Copy this to a directory on the path (like `/usr/local/bin/`), and call it `http4sTemplate`:
 

@@ -21,10 +21,10 @@ addSbtPlugin("com.thoughtworks.sbt-api-mappings" % "sbt-api-mappings"     % "2.0
 addSbtPlugin("com.typesafe.sbteclipse"           % "sbteclipse-plugin"    % "5.2.4")
 
 // See http://www.scala-sbt.org/sbt-site/
-addSbtPlugin("com.typesafe.sbt"                  % "sbt-site"             % "1.3.1")
+//addSbtPlugin("com.typesafe.sbt"                  % "sbt-site"             % "1.3.1")
 
 // See https://github.com/sbt/sbt-ghpages
-addSbtPlugin("com.typesafe.sbt"                  % "sbt-ghpages"          % "0.6.2")
+//addSbtPlugin("com.typesafe.sbt"                  % "sbt-ghpages"          % "0.6.2")
 
 // See https://github.com/jrudolph/sbt-dependency-graph
 addSbtPlugin("net.virtual-void"                  % "sbt-dependency-graph" % "0.9.0")

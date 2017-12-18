@@ -74,10 +74,11 @@ javacOptions ++= Seq(
 
 val Http4sVersion = "0.17.5"
 libraryDependencies ++= Seq(
-  "org.fusesource.jansi" %  "jansi"                % "1.8",
-  "org.http4s"           %% "http4s-blaze-server"  % Http4sVersion,
-  "org.http4s"           %% "http4s-circe"         % Http4sVersion,
-  "org.http4s"           %% "http4s-dsl"           % Http4sVersion,
+  "org.reactormonk"      %% "cryptobits"           % "1.1" withSources(),
+  "org.fusesource.jansi" %  "jansi"                % "1.8" withSources(),
+  "org.http4s"           %% "http4s-blaze-server"  % Http4sVersion withSources(),
+  "org.http4s"           %% "http4s-circe"         % Http4sVersion withSources(),
+  "org.http4s"           %% "http4s-dsl"           % Http4sVersion withSources(),
   "ch.qos.logback"       %  "logback-classic"      % "1.2.3",
   "org.specs2"           %% "specs2-core"          % "4.0.2"        % "test"
 )
